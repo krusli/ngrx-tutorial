@@ -1,5 +1,7 @@
 # NgrxTutorial
 
+Completed project based on this [CourseRetro tutorial](https://coursetro.com/posts/code/151/Angular-Ngrx-Store-Tutorial---Learn-Angular-State-Management)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
 
 ## Development server
